@@ -9,8 +9,8 @@ Feel free to explore the code and learn from the approaches used. I continuously
 
 ## 🔍 Problems Solved
 
-| # | Problem Name                             | File Name     |
-|---|------------------------------------------|---------------|
+| #   | Problem Name                           | File Name     |
+|-----|----------------------------------------|---------------|
 | 1   | Two Sum                                | `1.java`      |
 | 11  | Container With Most Water              | `11.java`     |
 | 26  | Remove Duplicates from Sorted Array    | `26.java`     |
