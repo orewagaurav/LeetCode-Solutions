@@ -24,6 +24,11 @@ Feel free to explore the code and learn from the approaches used. I continuously
 | 367 | Valid Perfect Square                   | `283.java`    |
 | 448 | Find All Numbers Disappeared in Array  | `448.java`    |
 | 643 | Maximum Average SubArray I             | `643.java`    |
+| 704 | Binary Search                          | `704.java`    |
+| 977 | Squares of a Sorted Array              | `977.java`    |
+| 1252| Cells with Odd Values in a Matrix      | `1252.java`   |
+| 1295| Find Numbers with Even Number of Digits| `1295.java`   |
+| 1342| Number of Steps to Reduce a Number to Zero | `1342.java`   |
 
 ---
 
