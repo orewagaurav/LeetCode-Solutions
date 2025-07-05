@@ -9,26 +9,27 @@ Feel free to explore the code and learn from the approaches used. I continuously
 
 ## 🔍 Problems Solved
 
-| #   | Problem Name                           | File Name     |
-|-----|----------------------------------------|---------------|
-| 1   | Two Sum                                | `1.java`      |
-| 11  | Container With Most Water              | `11.java`     |
-| 26  | Remove Duplicates from Sorted Array    | `26.java`     |
-| 27  | Remove Element                         | `27.java`     |
-| 35  | Search Insert Position                 | `35.java`     |
-| 69  | Sqrt(x)                                | `35.java`     |
-| 126 | Best Time to Buy and Sell Stock        | `35.java`     |
-| 217 | Contains Duplicate                     | `217.java`    |
-| 268 | Missing Number                         | `268.java`    |
-| 283 | Move Zeroes                            | `283.java`    |
-| 367 | Valid Perfect Square                   | `283.java`    |
-| 448 | Find All Numbers Disappeared in Array  | `448.java`    |
-| 643 | Maximum Average SubArray I             | `643.java`    |
-| 704 | Binary Search                          | `704.java`    |
-| 977 | Squares of a Sorted Array              | `977.java`    |
-| 1252| Cells with Odd Values in a Matrix      | `1252.java`   |
-| 1295| Find Numbers with Even Number of Digits| `1295.java`   |
-| 1342| Number of Steps to Reduce a Number to Zero | `1342.java`   |
+| #   | Problem Name                                  | File Name     |
+|-----|-----------------------------------------------|---------------|
+| 1   | Two Sum                                     | `1.java`      |
+| 11  | Container With Most Water                     | `11.java`     |
+| 26  | Remove Duplicates from Sorted Array           | `26.java`     |
+| 27  | Remove Element                                | `27.java`     |
+| 35  | Search Insert Position                        | `35.java`     |
+| 69  | Sqrt(x)                                       | `69.java`     |
+| 126 | Best Time to Buy and Sell Stock               | `126.java`    |
+| 217 | Contains Duplicate                            | `217.java`    |
+| 268 | Missing Number                                | `268.java`    |
+| 283 | Move Zeroes                                   | `283.java`    |
+| 367 | Valid Perfect Square                          | `367.java`    |
+| 448 | Find All Numbers Disappeared in Array         | `448.java`    |
+| 643 | Maximum Average SubArray I                    | `643.java`    |
+| 867 | Transpose Matrix                              | `867.java`    |
+| 1365| How Many Numbers Are Smaller Than the Current  | `1365.java`   |
+| 2016| Maximum Difference Between Increasing Elements | `2016.java`   |
+| 2460| Apply Operations to an Array                  | `2460.java`   |
+| 3417| zigzag Traversal with skip in Matrix                            | `3417.java`   |
+
 
 ---
 
