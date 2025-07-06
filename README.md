@@ -27,6 +27,7 @@ Feel free to explore the code and learn from the approaches used. I continuously
 | 867 | Transpose Matrix                              | `867.java`    |
 | 1365| How Many Numbers Are Smaller Than the Current  | `1365.java`   |
 | 2016| Maximum Difference Between Increasing Elements | `2016.java`   |
+| 2078| Two Furthest Houses With Different Colors      | `2078.java`   |
 | 2460| Apply Operations to an Array                  | `2460.java`   |
 | 3417| zigzag Traversal with skip in Matrix                            | `3417.java`   |
 
