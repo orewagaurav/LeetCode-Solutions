@@ -25,6 +25,7 @@ Feel free to explore the code and learn from the approaches used. I continuously
 | 448 | Find All Numbers Disappeared in Array         | `448.java`    |
 | 643 | Maximum Average SubArray I                    | `643.java`    |
 | 867 | Transpose Matrix                              | `867.java`    |
+| 1299 |Replace Elements with Greatest Element on Right Side | `1299.java`    |
 | 1365| How Many Numbers Are Smaller Than the Current  | `1365.java`   |
 | 2016| Maximum Difference Between Increasing Elements | `2016.java`   |
 | 2078| Two Furthest Houses With Different Colors      | `2078.java`   |
