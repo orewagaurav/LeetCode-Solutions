@@ -17,6 +17,7 @@ Feel free to explore the code and learn from the approaches used. I continuously
 | 27  | Remove Element                                | `27.java`     |
 | 35  | Search Insert Position                        | `35.java`     |
 | 69  | Sqrt(x)                                       | `69.java`     |
+| 88  | Merge Sorted Array                            | `88.java`     |
 | 126 | Best Time to Buy and Sell Stock               | `126.java`    |
 | 217 | Contains Duplicate                            | `217.java`    |
 | 268 | Missing Number                                | `268.java`    |
