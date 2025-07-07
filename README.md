@@ -11,7 +11,7 @@ Feel free to explore the code and learn from the approaches used. I continuously
 
 | #   | Problem Name                                  | File Name     |
 |-----|-----------------------------------------------|---------------|
-| 1   | Two Sum                                     | `1.java`      |
+| 1   | Two Sum                                       | `1.java`      |
 | 11  | Container With Most Water                     | `11.java`     |
 | 26  | Remove Duplicates from Sorted Array           | `26.java`     |
 | 27  | Remove Element                                | `27.java`     |
@@ -31,8 +31,8 @@ Feel free to explore the code and learn from the approaches used. I continuously
 | 1365| How Many Numbers Are Smaller Than the Current  | `1365.java`   |
 | 2016| Maximum Difference Between Increasing Elements | `2016.java`   |
 | 2078| Two Furthest Houses With Different Colors      | `2078.java`   |
-| 2460| Apply Operations to an Array                  | `2460.java`   |
-| 3417| zigzag Traversal with skip in Matrix                            | `3417.java`   |
+| 2460| Apply Operations to an Array                   | `2460.java`   |
+| 3417| zigzag Traversal with skip in Matrix           | `3417.java`   |
 
 
 ---
