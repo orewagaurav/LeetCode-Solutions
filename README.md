@@ -15,6 +15,7 @@ Feel free to explore the code and learn from the approaches used. I continuously
 | 11  | Container With Most Water                     | `11.java`     |
 | 26  | Remove Duplicates from Sorted Array           | `26.java`     |
 | 27  | Remove Element                                | `27.java`     |
+| 33  | Search in Rotated Sorted Array                | `23.java`     |
 | 35  | Search Insert Position                        | `35.java`     |
 | 69  | Sqrt(x)                                       | `69.java`     |
 | 88  | Merge Sorted Array                            | `88.java`     |
