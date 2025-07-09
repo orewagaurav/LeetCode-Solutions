@@ -43,8 +43,6 @@ Feel free to explore the code and learn from the approaches used. I continuously
 
 - Java
 
----
-
 ## 🚀 How to Use
 
 1. Clone this repo:
