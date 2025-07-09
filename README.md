@@ -24,6 +24,7 @@ Feel free to explore the code and learn from the approaches used. I continuously
 | 268 | Missing Number                                | `268.java`    |
 | 283 | Move Zeroes                                   | `283.java`    |
 | 349 | Intersection of Two Arrays                    | `349.java`    |
+| 350 | Intersection of Two Arrays - II                   | `350.java`    |
 | 367 | Valid Perfect Square                          | `367.java`    |
 | 448 | Find All Numbers Disappeared in Array         | `448.java`    |
 | 643 | Maximum Average SubArray I                    | `643.java`    |
