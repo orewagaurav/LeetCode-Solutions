@@ -37,6 +37,7 @@ Feel free to explore the code and learn from the approaches used. I continuously
 | 2078| Two Furthest Houses With Different Colors      | `2078.java`   |
 | 2215| Find the Difference of Two Arrays              | `2215.java`   |
 | 2460| Apply Operations to an Array                   | `2460.java`   |
+| 2540| Minimum Common Value                           | `2540.java`   |
 | 3417| zigzag Traversal with skip in Matrix           | `3417.java`   |
 
 
