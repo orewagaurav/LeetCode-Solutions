@@ -35,6 +35,7 @@ Feel free to explore the code and learn from the approaches used. I continuously
 | 1652| Defuse The Bomb                                | `1652.java`   |
 | 2016| Maximum Difference Between Increasing Elements | `2016.java`   |
 | 2078| Two Furthest Houses With Different Colors      | `2078.java`   |
+| 2215| Find the Difference of Two Arrays              | `2215.java`   |
 | 2460| Apply Operations to an Array                   | `2460.java`   |
 | 3417| zigzag Traversal with skip in Matrix           | `3417.java`   |
 
