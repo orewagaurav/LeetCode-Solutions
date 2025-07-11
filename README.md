@@ -23,6 +23,7 @@ Feel free to explore the code and learn from the approaches used. I continuously
 | 217 | Contains Duplicate                            | `217.java`    |
 | 268 | Missing Number                                | `268.java`    |
 | 283 | Move Zeroes                                   | `283.java`    |
+| 344 | Reverse String                                | `344.java`    |
 | 349 | Intersection of Two Arrays                    | `349.java`    |
 | 350 | Intersection of Two Arrays - II               | `350.java`    |
 | 367 | Valid Perfect Square                          | `367.java`    |
