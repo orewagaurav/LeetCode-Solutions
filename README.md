@@ -19,6 +19,7 @@ Feel free to explore the code and learn from the approaches used. I continuously
 | 69  | Sqrt(x)                                       | `69.java`     |
 | 88  | Merge Sorted Array                            | `88.java`     |
 | 126 | Best Time to Buy and Sell Stock               | `126.java`    |
+| 190 | Reverse Bits                                  | `190.java`    |
 | 191 | Number of 1 Bits                              | `191.java`    |
 | 202 | Happy Number                                  | `202.java`    |
 | 217 | Contains Duplicate                            | `217.java`    |
@@ -56,11 +57,13 @@ Feel free to explore the code and learn from the approaches used. I continuously
 ## 🚀 How to Use
 
 1. Clone this repo:
+
    ```bash
    git clone https://github.com/orewagaurav/LeetCode.git
    ```
 
 2. Navigate into the project directory:
+
    ```bash
    cd LeetCode
    ```
