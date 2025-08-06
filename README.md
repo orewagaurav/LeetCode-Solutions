@@ -19,6 +19,7 @@ Feel free to explore the code and learn from the approaches used. I continuously
 | 69  | Sqrt(x)                                       | `69.java`     |
 | 88  | Merge Sorted Array                            | `88.java`     |
 | 126 | Best Time to Buy and Sell Stock               | `126.java`    |
+| 202 | Happy Number                                  | `202.java`    |
 | 217 | Contains Duplicate                            | `217.java`    |
 | 268 | Missing Number                                | `268.java`    |
 | 283 | Move Zeroes                                   | `283.java`    |
