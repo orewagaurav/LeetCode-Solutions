@@ -23,6 +23,7 @@ Feel free to explore the code and learn from the approaches used. I continuously
 | 191 | Number of 1 Bits                              | `191.java`    |
 | 202 | Happy Number                                  | `202.java`    |
 | 217 | Contains Duplicate                            | `217.java`    |
+| 258 | Add Digits                                    | `258.java`    |
 | 263 | Ugly Number                                   | `263.java`    |
 | 268 | Missing Number                                | `268.java`    |
 | 283 | Move Zeroes                                   | `283.java`    |
@@ -46,7 +47,6 @@ Feel free to explore the code and learn from the approaches used. I continuously
 | 2529| Maximum Count of Positive Integer and Negative Integer| `2529.java`   |
 | 3417| zigzag Traversal with skip in Matrix           | `3417.java`   |
 | 3477| Fruits Into Baskets II                         | `3477.java`   |
-
 
 ---
 
