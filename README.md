@@ -23,6 +23,7 @@ Feel free to explore the code and learn from the approaches used. I continuously
 | 191 | Number of 1 Bits                              | `191.java`    |
 | 202 | Happy Number                                  | `202.java`    |
 | 217 | Contains Duplicate                            | `217.java`    |
+| 231 | Power of Two                                  | `231.java`    |
 | 258 | Add Digits                                    | `258.java`    |
 | 263 | Ugly Number                                   | `263.java`    |
 | 268 | Missing Number                                | `268.java`    |
