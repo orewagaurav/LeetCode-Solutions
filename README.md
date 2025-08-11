@@ -48,6 +48,7 @@ Feel free to explore the code and learn from the approaches used. I continuously
 | 2529| Maximum Count of Positive Integer and Negative Integer| `2529.java`   |
 | 3417| zigzag Traversal with skip in Matrix           | `3417.java`   |
 | 3477| Fruits Into Baskets II                         | `3477.java`   |
+| 3637| Trionic Array I                                | `3637.java`   |
 
 ---
 
