@@ -16,6 +16,7 @@ Feel free to explore the code and learn from the approaches used. I continuously
 | 27  | Remove Element                                | `27.java`     |
 | 33  | Search in Rotated Sorted Array                | `23.java`     |
 | 35  | Search Insert Position                        | `35.java`     |
+| 42  | Trapping Rain Water                           | `42.java`     |
 | 53  |  Maximum Subarray                             | `53.java`     |
 | 69  | Sqrt(x)                                       | `69.java`     |
 | 88  | Merge Sorted Array                            | `88.java`     |
