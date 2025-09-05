@@ -11,6 +11,7 @@ Feel free to explore the code and learn from the approaches used. I continuously
 | #   | Problem Name                                  | File Name     |
 |-----|-----------------------------------------------|---------------|
 | 1   | Two Sum                                       | `1.java`      |
+| 1   | Add Two Numbers                               | `2.java`      |
 | 11  | Container With Most Water                     | `11.java`     |
 | 26  | Remove Duplicates from Sorted Array           | `26.java`     |
 | 27  | Remove Element                                | `27.java`     |
