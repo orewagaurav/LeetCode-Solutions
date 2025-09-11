@@ -11,7 +11,7 @@ Feel free to explore the code and learn from the approaches used. I continuously
 | #   | Problem Name                                  | File Name     |
 |-----|-----------------------------------------------|---------------|
 | 1   | Two Sum                                       | `1.java`      |
-| 1   | Add Two Numbers                               | `2.java`      |
+| 2   | Add Two Numbers                               | `2.java`      |
 | 11  | Container With Most Water                     | `11.java`     |
 | 26  | Remove Duplicates from Sorted Array           | `26.java`     |
 | 27  | Remove Element                                | `27.java`     |
@@ -22,6 +22,7 @@ Feel free to explore the code and learn from the approaches used. I continuously
 | 69  | Sqrt(x)                                       | `69.java`     |
 | 88  | Merge Sorted Array                            | `88.java`     |
 | 126 | Best Time to Buy and Sell Stock               | `126.java`    |
+| 141 | Linked List Cycle                             | `141.java`    |
 | 190 | Reverse Bits                                  | `190.java`    |
 | 191 | Number of 1 Bits                              | `191.java`    |
 | 202 | Happy Number                                  | `202.java`    |
