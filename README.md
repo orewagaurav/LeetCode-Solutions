@@ -29,6 +29,7 @@ Feel free to explore the code and learn from the approaches used. I continuously
 | 206 | Reverse Linked List                           | `206.java`    |
 | 217 | Contains Duplicate                            | `217.java`    |
 | 231 | Power of Two                                  | `231.java`    |
+| 237 | Delete Node in a Linked List                  | `237.java`    |
 | 258 | Add Digits                                    | `258.java`    |
 | 263 | Ugly Number                                   | `263.java`    |
 | 268 | Missing Number                                | `268.java`    |
