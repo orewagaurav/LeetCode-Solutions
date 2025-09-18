@@ -24,6 +24,7 @@ Feel free to explore the code and learn from the approaches used. I continuously
 | 126 | Best Time to Buy and Sell Stock               | `126.java`    |
 | 141 | Linked List Cycle                             | `141.java`    |
 | 143 | Reorder List                                  | `143.java`    |
+| 169 | Majority Element                              | `143.java`    |
 | 190 | Reverse Bits                                  | `190.java`    |
 | 191 | Number of 1 Bits                              | `191.java`    |
 | 202 | Happy Number                                  | `202.java`    |
