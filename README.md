@@ -21,6 +21,7 @@ Feel free to explore the code and learn from the approaches used. I continuously
 | 42  | Trapping Rain Water                           | `42.java`     |
 | 53  |  Maximum Subarray                             | `53.java`     |
 | 69  | Sqrt(x)                                       | `69.java`     |
+| 82  | Remove Duplicates from Sorted List II         | `82.java`     |
 | 83  | Remove Duplicates from Sorted List            | `83.java`     |
 | 88  | Merge Sorted Array                            | `88.java`     |
 | 126 | Best Time to Buy and Sell Stock               | `126.java`    |
