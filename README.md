@@ -51,11 +51,12 @@ Feel free to explore the code and learn from the approaches used. I continuously
 | 867 | Transpose Matrix                              | `867.java`    |
 | 876 | Middle of the Linked List                     | `876.java`    |
 | 977 | Squares of a Sorted Array                     | `977.java`    |
-| 1299 |Replace Elements with Greatest Element on Right Side | `1299.java`    |
+| 1299| Replace Elements with Greatest Element on Right Side | `1299.java`    |
 | 1365| How Many Numbers Are Smaller Than the Current  | `1365.java`   |
 | 1652| Defuse The Bomb                                | `1652.java`   |
 | 2016| Maximum Difference Between Increasing Elements | `2016.java`   |
 | 2078| Two Furthest Houses With Different Colors      | `2078.java`   |
+| 2095| Delete the Middle Node of a Linked List        | `2078.java`   |
 | 2215| Find the Difference of Two Arrays              | `2215.java`   |
 | 2460| Apply Operations to an Array                   | `2460.java`   |
 | 2460| Apply Operations to an Array                   | `2460.java`   |
