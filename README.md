@@ -13,8 +13,9 @@ Feel free to explore the code and learn from the approaches used. I continuously
 | 1   | Two Sum                                       | `1.java`      |
 | 2   | Add Two Numbers                               | `2.java`      |
 | 11  | Container With Most Water                     | `11.java`     |
-| 19  | Remove Nth Node From End of List              | `11.java`     |
-| 21  | Merge Two Sorted Lists                        | `11.java`     |
+| 19  | Remove Nth Node From End of List              | `19.java`     |
+| 20  | Valid Parentheses                             | `20.java`     |
+| 21  | Merge Two Sorted Lists                        | `21.java`     |
 | 26  | Remove Duplicates from Sorted Array           | `26.java`     |
 | 27  | Remove Element                                | `27.java`     |
 | 33  | Search in Rotated Sorted Array                | `23.java`     |
