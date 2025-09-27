@@ -29,6 +29,7 @@ Feel free to explore the code and learn from the approaches used. I continuously
 | 83  | Remove Duplicates from Sorted List            | `83.java`     |
 | 88  | Merge Sorted Array                            | `88.java`     |
 | 92  | Reverse Linked List II                        | `92.java`     |
+| 125 | Valid Palindrome                              | `125.java`     |
 | 126 | Best Time to Buy and Sell Stock               | `126.java`    |
 | 141 | Linked List Cycle                             | `141.java`    |
 | 143 | Reorder List                                  | `143.java`    |
