@@ -31,6 +31,7 @@ Feel free to explore the code and learn from the approaches used. I continuously
 | 92  | Reverse Linked List II                        | `92.java`     |
 | 94  | Binary Tree Inorder Traversal                 | `94.java`     |
 | 104 | Maximum Depth of Binary Tree                  | `94.java`     |
+| 111 | Minimum Depth of Binary Tree                  | `94.java`     |
 | 125 | Valid Palindrome                              | `125.java`    |
 | 126 | Best Time to Buy and Sell Stock               | `126.java`    |
 | 141 | Linked List Cycle                             | `141.java`    |
