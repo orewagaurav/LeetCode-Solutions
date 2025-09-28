@@ -35,6 +35,7 @@ Feel free to explore the code and learn from the approaches used. I continuously
 | 141 | Linked List Cycle                             | `141.java`    |
 | 143 | Reorder List                                  | `143.java`    |
 | 144 | Binary Tree Preorder Traversal                | `144.java`    |
+| 145 | Binary Tree Postorder Traversal                | `145.java`    |
 | 169 | Majority Element                              | `143.java`    |
 | 190 | Reverse Bits                                  | `190.java`    |
 | 191 | Number of 1 Bits                              | `191.java`    |
