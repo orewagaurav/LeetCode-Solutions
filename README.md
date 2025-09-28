@@ -55,6 +55,7 @@ Feel free to explore the code and learn from the approaches used. I continuously
 | 350 | Intersection of Two Arrays - II               | `350.java`    |
 | 367 | Valid Perfect Square                          | `367.java`    |
 | 448 | Find All Numbers Disappeared in Array         | `448.java`    |
+| 590 | N-ary Tree Postorder Traversal                | `590.java`    |
 | 643 | Maximum Average SubArray I                    | `643.java`    |
 | 704 | Binary Search                                 | `704.java`    |
 | 867 | Transpose Matrix                              | `867.java`    |
