@@ -32,6 +32,7 @@ Feel free to explore the code and learn from the approaches used. I continuously
 | 35  | Search Insert Position                        | [`35.java`](./35.java)     |
 | 42  | Trapping Rain Water                           | [`42.java`](./42.java)     |
 | 53  | Maximum Subarray                              | [`53.java`](./53.java)     |
+| 58  | Length of Last Word                           | [`58.java`](./58.java)     |
 | 69  | Sqrt(x)                                       | [`69.java`](./69.java)     |
 | 75  | Sort Colors                                   | [`75.java`](./69.java)     |
 | 82  | Remove Duplicates from Sorted List II         | [`82.java`](./82.java)     |
