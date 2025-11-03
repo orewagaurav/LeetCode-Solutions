@@ -22,7 +22,8 @@ Feel free to explore the code and learn from the approaches used. I continuously
 | 3   | Longest Substring Without Repeating Characters| [`3.java`](./3.java)      |
 | 4   | Median of Two Sorted Arrays                   | [`3.java`](./4.java)      |
 | 7   | Reverse Integer                               | [`7.java`](./7.java)      |
-| 11  | Container With Most Water                     | [`11.java`](./11.java)     |
+| 11  | Longest Common Prefix                         | [`11.java`](./14.java)     |
+| 14  | Container With Most Water                     | [`14.java`](./11.java)     |
 | 19  | Remove Nth Node From End of List              | [`19.java`](./19.java)     |
 | 20  | Valid Parentheses                             | [`20.java`](./20.java)     |
 | 21  | Merge Two Sorted Lists                        | [`21.java`](./21.java)     |
