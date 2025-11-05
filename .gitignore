@@ -1,3 +1,4 @@
 .vscode
 arise.sh
 commit.sh
+*.class
