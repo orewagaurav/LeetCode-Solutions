@@ -67,6 +67,7 @@ Feel free to explore the code and learn from the approaches used. I continuously
 | 268 | Missing Number                                | [`268.java`](./268.java)    |
 | 283 | Move Zeroes                                   | [`283.java`](./283.java)    |
 | 326 | Power of Three                                | [`326.java`](./326.java)    |
+| 342 | Power of Four                                 | [`342.java`](./342.java)    |
 | 344 | Reverse String                                | [`344.java`](./344.java)    |
 | 349 | Intersection of Two Arrays                    | [`349.java`](./349.java)    |
 | 350 | Intersection of Two Arrays - II               | [`350.java`](./350.java)    |
