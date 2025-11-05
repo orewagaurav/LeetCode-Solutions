@@ -66,12 +66,14 @@ Feel free to explore the code and learn from the approaches used. I continuously
 | 263 | Ugly Number                                   | [`263.java`](./263.java)    |
 | 268 | Missing Number                                | [`268.java`](./268.java)    |
 | 283 | Move Zeroes                                   | [`283.java`](./283.java)    |
+| 326 | Power of Three                                | [`326.java`](./326.java)    |
 | 344 | Reverse String                                | [`344.java`](./344.java)    |
 | 349 | Intersection of Two Arrays                    | [`349.java`](./349.java)    |
 | 350 | Intersection of Two Arrays - II               | [`350.java`](./350.java)    |
 | 367 | Valid Perfect Square                          | [`367.java`](./367.java)    |
 | 429 | N-ary Tree Level Order Traversal              | [`429.java`](./429.java)    |
 | 448 | Find All Numbers Disappeared in Array         | [`448.java`](./448.java)    |
+| 448 | Fibonacci Number                              | [`509.java`](./509.java)    |
 | 589 | N-ary Tree Preorder Traversal                 | [`589.java`](./589.java)    |
 | 590 | N-ary Tree Postorder Traversal                | [`590.java`](./590.java)    |
 | 643 | Maximum Average SubArray I                    | [`643.java`](./643.java)    |
