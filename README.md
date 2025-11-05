@@ -35,7 +35,8 @@ Feel free to explore the code and learn from the approaches used. I continuously
 | 53  | Maximum Subarray                              | [`53.java`](./53.java)     |
 | 58  | Length of Last Word                           | [`58.java`](./58.java)     |
 | 69  | Sqrt(x)                                       | [`69.java`](./69.java)     |
-| 75  | Sort Colors                                   | [`75.java`](./69.java)     |
+| 75  | Sort Colors                                   | [`75.java`](./75.java)     |
+| 81  | Search in Rotated Sorted Array II             | [`75.java`](./81.java)     |
 | 82  | Remove Duplicates from Sorted List II         | [`82.java`](./82.java)     |
 | 83  | Remove Duplicates from Sorted List            | [`83.java`](./83.java)     |
 | 88  | Merge Sorted Array                            | [`88.java`](./88.java)     |
@@ -50,6 +51,7 @@ Feel free to explore the code and learn from the approaches used. I continuously
 | 143 | Reorder List                                  | [`143.java`](./143.java)    |
 | 144 | Binary Tree Preorder Traversal                | [`144.java`](./144.java)    |
 | 145 | Binary Tree Postorder Traversal               | [`145.java`](./145.java)    |
+| 153 | Find Minimum in Rotated Sorted Array          | [`153.java`](./153.java)    |
 | 169 | Majority Element                              | [`143.java`](./143.java)    |
 | 190 | Reverse Bits                                  | [`190.java`](./190.java)    |
 | 191 | Number of 1 Bits                              | [`191.java`](./191.java)    |
