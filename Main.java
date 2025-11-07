@@ -1,35 +1,55 @@
 import java.util.*;
 
-class Solution{
-    public int findfMin(int[] nums){
-        int left = 0;
-        int right = nums.length - 1;
-        if(nums[left] < nums[right]){
-            return nums[left];
-        }
-        while(left < right){
-            int mid = left + (right - left)/2;
-            if(nums[mid] > nums[right]){
-                left = mid+1;
-            }else{
-                right = mid;
-            }
-        }
-        return nums[left];
+class Node{
+    int val;
+    Node next;
+    Node(){}
+    Node(int val){
+        this.val= val;
+        this.next = null;
+    }
+    Node(int val, Node next){
+        this.val = val;
+        this.next = next;
     }
 }
+class Solution{
+    public Node middleNode(Node head){
+        Node slow = head;
+        Node fast = head;
+        while(fast != null && fast.next != null){
+            slow = slow.next;
+            fast = fast.next.next;
+        }
+        return slow;
+    }
+}
+
 public class Main{
     public static void main(String[] args){
-        int n;
         Scanner sc = new Scanner(System.in);
-        System.out.print("Enter the n: ");
-        n = sc.nextInt();
-        int[] nums = new int[n];
-        for(int i=0;i<n;i++){
-            nums[i] = sc.nextInt();
+        
+        System.out.print("Enter the no. of nodes: ");
+        int  n = sc.nextInt();
+        Node head = new Node(sc.nextInt());
+        Node current = head;
+        for(int i=1;i<n;i++){
+            current.next = new Node(sc.nextInt());
+            current = current.next;
         }
+        displayNode(head);
         Solution sol = new Solution();
-        int min = sol.findfMin(nums);
-        System.out.println("The minum: "+ min);
+        Node middle = sol.middleNode(head);
+        System.out.print("The middle node: "+ middle.val);
+        System.out.println();
     }
+    public static void displayNode(Node head){
+            Node tmp = head;
+            while(tmp != null){
+                System.out.print(tmp.val+" ->");
+                tmp = tmp.next;
+            }
+            System.out.print(" null");
+            System.out.println();
+        }
 }
