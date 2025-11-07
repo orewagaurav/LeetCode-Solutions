@@ -52,6 +52,7 @@ Feel free to explore the code and learn from the approaches used. I continuously
 | 144 | Binary Tree Preorder Traversal                | [`144.java`](./144.java)    |
 | 145 | Binary Tree Postorder Traversal               | [`145.java`](./145.java)    |
 | 153 | Find Minimum in Rotated Sorted Array          | [`153.java`](./153.java)    |
+| 162 | Find Peak Element                             | [`162.java`](./162.java)    |
 | 169 | Majority Element                              | [`143.java`](./143.java)    |
 | 190 | Reverse Bits                                  | [`190.java`](./190.java)    |
 | 191 | Number of 1 Bits                              | [`191.java`](./191.java)    |
