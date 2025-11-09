@@ -88,6 +88,7 @@ Feel free to explore the code and learn from the approaches used. I continuously
 | 1365| How Many Numbers Are Smaller Than the Current  | [`1365.java`](./1365.java)   |
 | 1482| Minimum Number of Days to Make m Bouquets      | [`1482.java`](./1482.java)   |
 | 1652| Defuse The Bomb                                | [`1652.java`](./1652.java)   |
+| 1760| Minimum Limit of Balls in a Bag                | [`1760.java`](./1760.java)   |
 | 2016| Maximum Difference Between Increasing Elements | [`2016.java`](./2016.java)   |
 | 2078| Two Furthest Houses With Different Colors      | [`2078.java`](./2078.java)   |
 | 2095| Delete the Middle Node of a Linked List        | [`2078.java`](./2078.java)   |
