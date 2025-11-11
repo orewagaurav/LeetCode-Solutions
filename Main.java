@@ -49,6 +49,7 @@ public class Main{
                 System.out.print(tmp.val+" ->");
                 tmp = tmp.next;
             }
+            
             System.out.print(" null");
             System.out.println();
         }
