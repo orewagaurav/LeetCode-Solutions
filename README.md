@@ -81,7 +81,8 @@ Feel free to explore the code and learn from the approaches used. I continuously
 | 540 | Single Element in a Sorted Array              | [`540.java`](./540.java)    |
 | 589 | N-ary Tree Preorder Traversal                 | [`589.java`](./589.java)    |
 | 590 | N-ary Tree Postorder Traversal                | [`590.java`](./590.java)    |
-| 643 | Maximum Average SubArray I                    | [`643.java`](./643.java)    |
+| 605 | N-ary Tree Postorder Traversal                | [`590.java`](./590.java)    |
+| 643 | Can Place Flowers                             | [`643.java`](./643.java)    |
 | 704 | Binary Search                                 | [`704.java`](./704.java)    |
 | 867 | Transpose Matrix                              | [`867.java`](./867.java)    |
 | 876 | Middle of the Linked List                     | [`876.java`](./876.java)    |
