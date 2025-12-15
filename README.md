@@ -71,6 +71,7 @@ Feel free to explore the code and learn from the approaches used. I continuously
 | 326 | Power of Three                                | [`326.java`](./326.java)    |
 | 342 | Power of Four                                 | [`342.java`](./342.java)    |
 | 344 | Reverse String                                | [`344.java`](./344.java)    |
+| 345 | Reverse Vowels of a String                    | [`344.java`](./344.java)    |
 | 349 | Intersection of Two Arrays                    | [`349.java`](./349.java)    |
 | 350 | Intersection of Two Arrays - II               | [`350.java`](./350.java)    |
 | 367 | Valid Perfect Square                          | [`367.java`](./367.java)    |
@@ -82,7 +83,7 @@ Feel free to explore the code and learn from the approaches used. I continuously
 | 589 | N-ary Tree Preorder Traversal                 | [`589.java`](./589.java)    |
 | 590 | N-ary Tree Postorder Traversal                | [`590.java`](./590.java)    |
 | 605 | N-ary Tree Postorder Traversal                | [`590.java`](./590.java)    |
-| 643 | Can Place Flowers                             | [`643.java`](./643.java)    |
+| 643 | Can Place Flowers                              | [`643.java`](./643.java)    |
 | 704 | Binary Search                                 | [`704.java`](./704.java)    |
 | 867 | Transpose Matrix                              | [`867.java`](./867.java)    |
 | 876 | Middle of the Linked List                     | [`876.java`](./876.java)    |
