@@ -78,6 +78,7 @@ Feel free to explore the code and learn from the approaches used. I continuously
 | 349 | Intersection of Two Arrays                    | [`349.java`](./349.java)    |
 | 350 | Intersection of Two Arrays - II               | [`350.java`](./350.java)    |
 | 367 | Valid Perfect Square                          | [`367.java`](./367.java)    |
+| 392 | Is Subsequence                                | [`392.java`](./392.java)    |
 | 429 | N-ary Tree Level Order Traversal              | [`429.java`](./429.java)    |
 | 443 | String Compression                            | [`443.java`](./443.java)    |
 | 448 | Find All Numbers Disappeared in Array         | [`448.java`](./448.java)    |
