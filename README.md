@@ -99,6 +99,7 @@ Feel free to explore the code and learn from the approaches used. I continuously
 | 1431| Kids With the Greatest Number of Candies       | [`1431.java`](./1431.java)   |
 | 1482| Minimum Number of Days to Make m Bouquets      | [`1482.java`](./1482.java)   |
 | 1652| Defuse The Bomb                                | [`1652.java`](./1652.java)   |
+| 1679| Max Number of K-Sum Pairs                      | [`1679.java`](./1679.java)   |
 | 1760| Minimum Limit of Balls in a Bag                | [`1760.java`](./1760.java)   |
 | 1768| Merge Strings Alternately                     | [`1768.java`](./1768.java)   |
 | 2016| Maximum Difference Between Increasing Elements | [`2016.java`](./2016.java)   |
