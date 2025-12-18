@@ -97,6 +97,7 @@ Feel free to explore the code and learn from the approaches used. I continuously
 | 1299| Replace Elements with Greatest Element on Right Side | [`1299.java`](./1299.java)    |
 | 1365| How Many Numbers Are Smaller Than the Current  | [`1365.java`](./1365.java)   |
 | 1431| Kids With the Greatest Number of Candies       | [`1431.java`](./1431.java)   |
+| 1456| Maximum Number of Vowels in a Substring of Given Length | [`1456.java`](./1456.java)   |
 | 1482| Minimum Number of Days to Make m Bouquets      | [`1482.java`](./1482.java)   |
 | 1652| Defuse The Bomb                                | [`1652.java`](./1652.java)   |
 | 1679| Max Number of K-Sum Pairs                      | [`1679.java`](./1679.java)   |
