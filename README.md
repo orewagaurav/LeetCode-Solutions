@@ -94,6 +94,7 @@ Feel free to explore the code and learn from the approaches used. I continuously
 | 867 | Transpose Matrix                              | [`867.java`](./867.java)    |
 | 876 | Middle of the Linked List                     | [`876.java`](./876.java)    |
 | 977 | Squares of a Sorted Array                     | [`977.java`](./977.java)    |
+| 1004 |Squares of a Sorted Array                     | [`1004.java`](./1004.java)    |
 | 1071 |  Greatest Common Divisor of Strings         | [`1071.java`](./1071.java)    |
 | 1299| Replace Elements with Greatest Element on Right Side | [`1299.java`](./1299.java)    |
 | 1365| How Many Numbers Are Smaller Than the Current  | [`1365.java`](./1365.java)   |
