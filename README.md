@@ -93,6 +93,7 @@ This repository contains my personal solutions to various LeetCode problems, imp
 | 1482 | Minimum Days to Make m Bouquets | [`1482.java`](./1482.java) |
 | 1493 | Longest Subarray of 1's After Deleting One Element | [`1493.java`](./1493.java) |
 | 1652 | Defuse The Bomb | [`1652.java`](./1652.java) |
+| 1732 | Find the Highest Altitude | [`1732.java`](./1732.java) |
 | 1679 | Max Number of K-Sum Pairs | [`1679.java`](./1679.java) |
 | 1760 | Minimum Limit of Balls in a Bag | [`1760.java`](./1760.java) |
 | 1768 | Merge Strings Alternately | [`1768.java`](./1768.java) |
