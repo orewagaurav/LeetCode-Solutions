@@ -81,6 +81,7 @@ This repository contains my personal solutions to various LeetCode problems, imp
 | 605 | Can Place Flowers | [`605.java`](./605.java) |
 | 643 | Maximum Average Subarray I | [`643.java`](./643.java) |
 | 704 | Binary Search | [`704.java`](./704.java) |
+| 724 | Find Pivot Index | [`724.java`](./724.java) |
 | 867 | Transpose Matrix | [`867.java`](./867.java) |
 | 876 | Middle of the Linked List | [`876.java`](./876.java) |
 | 977 | Squares of a Sorted Array | [`977.java`](./977.java) |
