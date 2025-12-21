@@ -87,6 +87,7 @@ This repository contains my personal solutions to various LeetCode problems, imp
 | 977 | Squares of a Sorted Array | [`977.java`](./977.java) |
 | 1004 | Max Consecutive Ones III | [`1004.java`](./1004.java) |
 | 1071 | Greatest Common Divisor of Strings | [`1071.java`](./1071.java) |
+| 1207 | Unique Number of Occurrences | [`1207.java`](./1207.java) |
 | 1299 | Replace Elements with Greatest on Right | [`1299.java`](./1299.java) |
 | 1365 | Numbers Smaller Than Current | [`1365.java`](./1365.java) |
 | 1431 | Kids With the Greatest Number of Candies | [`1431.java`](./1431.java) |
