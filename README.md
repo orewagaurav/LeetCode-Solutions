@@ -62,6 +62,7 @@ This repository contains my personal solutions to various LeetCode problems, imp
 | 268 | Missing Number | [`268.java`](./268.java) |
 | 283 | Move Zeroes | [`283.java`](./283.java) |
 | 326 | Power of Three | [`326.java`](./326.java) |
+| 328 | Odd Even Linked List | [`328.java`](./328.java) |
 | 334 | Increasing Triplet Subsequence | [`334.java`](./334.java) |
 | 342 | Power of Four | [`342.java`](./342.java) |
 | 344 | Reverse String | [`344.java`](./344.java) |
