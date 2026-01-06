@@ -37,6 +37,7 @@ This repository contains my personal solutions to various LeetCode problems, imp
 | 102 | Binary Tree Level Order Traversal | [`102.java`](./102.java) |
 | 104 | Maximum Depth of Binary Tree | [`104.java`](./104.java) |
 | 111 | Minimum Depth of Binary Tree | [`111.java`](./111.java) |
+| 112 | Path Sum | [`112.java`](./112.java) |
 | 121 | Best Time to Buy and Sell Stock | [`121.java`](./121.java) |
 | 125 | Valid Palindrome | [`125.java`](./125.java) |
 | 141 | Linked List Cycle | [`141.java`](./141.java) |
