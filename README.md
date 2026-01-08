@@ -35,6 +35,7 @@ This repository contains my personal solutions to various LeetCode problems, imp
 | 92 | Reverse Linked List II | [`92.java`](./92.java) |
 | 94 | Binary Tree Inorder Traversal | [`94.java`](./94.java) |
 | 100 | Same Tree | [`100.java`](./100.java) |
+| 101 | Symmetric Tree | [`100.java`](./100.java) |
 | 102 | Binary Tree Level Order Traversal | [`102.java`](./102.java) |
 | 104 | Maximum Depth of Binary Tree | [`104.java`](./104.java) |
 | 111 | Minimum Depth of Binary Tree | [`111.java`](./111.java) |
