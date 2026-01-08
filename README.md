@@ -78,6 +78,7 @@ This repository contains my personal solutions to various LeetCode problems, imp
 | 463 | Island Perimeter | [`463.java`](./463.java) |
 | 509 | Fibonacci Number | [`509.java`](./509.java) |
 | 540 | Single Element in a Sorted Array | [`540.java`](./540.java) |
+| 543 | Diameter of Binary Tree | [`543.java`](./543.java) |
 | 589 | N-ary Tree Preorder Traversal | [`589.java`](./589.java) |
 | 590 | N-ary Tree Postorder Traversal | [`590.java`](./590.java) |
 | 605 | Can Place Flowers | [`605.java`](./605.java) |
