@@ -90,6 +90,7 @@ This repository contains my personal solutions to various LeetCode problems, imp
 | 704 | Binary Search | [`704.java`](./704.java) |
 | 724 | Find Pivot Index | [`724.java`](./724.java) |
 | 867 | Transpose Matrix | [`867.java`](./867.java) |
+| 872 | Leaf-Similar Trees | [`872.java`](./872.java) |
 | 876 | Middle of the Linked List | [`876.java`](./876.java) |
 | 977 | Squares of a Sorted Array | [`977.java`](./977.java) |
 | 1004 | Max Consecutive Ones III | [`1004.java`](./1004.java) |
