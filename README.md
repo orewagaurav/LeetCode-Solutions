@@ -38,6 +38,7 @@ This repository contains my personal solutions to various LeetCode problems, imp
 | 101 | Symmetric Tree | [`100.java`](./100.java) |
 | 102 | Binary Tree Level Order Traversal | [`102.java`](./102.java) |
 | 104 | Maximum Depth of Binary Tree | [`104.java`](./104.java) |
+| 110 | Balanced Binary Tree | [`110.java`](./110.java) |
 | 111 | Minimum Depth of Binary Tree | [`111.java`](./111.java) |
 | 112 | Path Sum | [`112.java`](./112.java) |
 | 121 | Best Time to Buy and Sell Stock | [`121.java`](./121.java) |
@@ -56,6 +57,7 @@ This repository contains my personal solutions to various LeetCode problems, imp
 | 203 | Remove Linked List Elements | [`203.java`](./203.java) |
 | 206 | Reverse Linked List | [`206.java`](./206.java) |
 | 217 | Contains Duplicate | [`217.java`](./217.java) |
+| 222 | Count Complete Tree Nodes | [`222.java`](./222.java) |
 | 231 | Power of Two | [`231.java`](./231.java) |
 | 234 | Palindrome Linked List | [`234.java`](./234.java) |
 | 237 | Delete Node in a Linked List | [`237.java`](./237.java) |
