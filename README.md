@@ -60,6 +60,7 @@ This repository contains my personal solutions to various LeetCode problems, imp
 | 222 | Count Complete Tree Nodes | [`222.java`](./222.java) |
 | 231 | Power of Two | [`231.java`](./231.java) |
 | 234 | Palindrome Linked List | [`234.java`](./234.java) |
+| 236 | Lowest Common Ancestor of a Binary Tree | [`236.java`](./236.java) |
 | 237 | Delete Node in a Linked List | [`237.java`](./237.java) |
 | 238 | Product of Array Except Self | [`238.java`](./238.java) |
 | 258 | Add Digits | [`258.java`](./258.java) |
