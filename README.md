@@ -90,12 +90,14 @@ This repository contains my personal solutions to various LeetCode problems, imp
 | 643 | Maximum Average Subarray I | [`643.java`](./643.java) |
 | 704 | Binary Search | [`704.java`](./704.java) |
 | 724 | Find Pivot Index | [`724.java`](./724.java) |
+| 814 | Binary Tree Pruning | [`814.java`](./814.java) |
 | 867 | Transpose Matrix | [`867.java`](./867.java) |
 | 872 | Leaf-Similar Trees | [`872.java`](./872.java) |
 | 876 | Middle of the Linked List | [`876.java`](./876.java) |
 | 977 | Squares of a Sorted Array | [`977.java`](./977.java) |
 | 1004 | Max Consecutive Ones III | [`1004.java`](./1004.java) |
 | 1071 | Greatest Common Divisor of Strings | [`1071.java`](./1071.java) |
+| 1161 | Maximum Level Sum of a Binary Tree | [`1161.java`](./1161.java) |
 | 1207 | Unique Number of Occurrences | [`1207.java`](./1207.java) |
 | 1299 | Replace Elements with Greatest on Right | [`1299.java`](./1299.java) |
 | 1365 | Numbers Smaller Than Current | [`1365.java`](./1365.java) |
