@@ -101,6 +101,7 @@ This repository contains my personal solutions to various LeetCode problems, imp
 | 1207 | Unique Number of Occurrences | [`1207.java`](./1207.java) |
 | 1299 | Replace Elements with Greatest on Right | [`1299.java`](./1299.java) |
 | 1365 | Numbers Smaller Than Current | [`1365.java`](./1365.java) |
+| 1372 | Longest ZigZag Path in a Binary Tree | [`1372.java`](./1372.java) |
 | 1431 | Kids With the Greatest Number of Candies | [`1431.java`](./1431.java) |
 | 1448 | Count Good Nodes in Binary Tree | [`1448.java`](./1448.java) |
 | 1456 | Max Vowels in Substring of Length K | [`1456.java`](./1456.java) |
