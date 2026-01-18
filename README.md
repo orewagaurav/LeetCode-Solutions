@@ -76,6 +76,7 @@ This repository contains my personal solutions to various LeetCode problems, imp
 | 349 | Intersection of Two Arrays | [`349.java`](./349.java) |
 | 350 | Intersection of Two Arrays II | [`350.java`](./350.java) |
 | 367 | Valid Perfect Square | [`367.java`](./367.java) |
+| 374 | Guess Number Higher or Lower | [`374.java`](./374.java) |
 | 392 | Is Subsequence | [`392.java`](./392.java) |
 | 429 | N-ary Tree Level Order Traversal | [`429.java`](./429.java) |
 | 443 | String Compression | [`443.java`](./443.java) |
