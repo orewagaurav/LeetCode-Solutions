@@ -94,6 +94,7 @@ This repository contains my personal solutions to various LeetCode problems, imp
 | 814 | Binary Tree Pruning | [`814.java`](./814.java) |
 | 867 | Transpose Matrix | [`867.java`](./867.java) |
 | 872 | Leaf-Similar Trees | [`872.java`](./872.java) |
+| 875 | Koko Eating Bananas | [`875.java`](./875.java) |
 | 876 | Middle of the Linked List | [`876.java`](./876.java) |
 | 977 | Squares of a Sorted Array | [`977.java`](./977.java) |
 | 1004 | Max Consecutive Ones III | [`1004.java`](./1004.java) |
