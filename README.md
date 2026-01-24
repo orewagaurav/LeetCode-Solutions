@@ -49,6 +49,7 @@ This repository contains my personal solutions to various LeetCode problems, imp
 | 145 | Binary Tree Postorder Traversal | [`145.java`](./145.java) |
 | 151 | Reverse Words in a String | [`151.java`](./151.java) |
 | 153 | Find Minimum in Rotated Sorted Array | [`153.java`](./153.java) |
+| 160 | Intersection of Two Linked Lists | [`160.java`](./160.java) |
 | 162 | Find Peak Element | [`162.java`](./162.java) |
 | 169 | Majority Element | [`169.java`](./169.java) |
 | 190 | Reverse Bits | [`190.java`](./190.java) |
