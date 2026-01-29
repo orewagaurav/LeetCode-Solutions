@@ -120,7 +120,7 @@ This repository contains my personal solutions to various LeetCode problems, imp
 | 2078 | Two Furthest Houses Different Colors | [`2078.java`](./2078.java) |
 | 2095 | Delete the Middle Node of a Linked List | [`2095.java`](./2095.java) |
 | 2215 | Find the Difference of Two Arrays | [`2215.java`](./2215.java) |
-| 2352 | Equal Row and Column Pairs | [`2352.java`](./2352.java) |
+| 2390 | Removing Stars From a String | [`2390.java`](./2390.java) |
 | 2460 | Apply Operations to an Array | [`2460.java`](./2460.java) |
 | 2529 | Max Count Positive & Negative Integer | [`2529.java`](./2529.java) |
 | 3417 | Zigzag Traversal with Skip in Matrix | [`3417.java`](./3417.java) |
