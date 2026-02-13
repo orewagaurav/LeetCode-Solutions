@@ -26,6 +26,7 @@ This repository contains my personal solutions to various LeetCode problems, imp
 | 42 | Trapping Rain Water | [`42.java`](./42.java) |
 | 53 | Maximum Subarray | [`53.java`](./53.java) |
 | 58 | Length of Last Word | [`58.java`](./58.java) |
+| 61 | Rotate List | [`61.java`](./61.java) |
 | 66 | Plus One | [`66.java`](./66.java) |
 | 69 | Sqrt(x) | [`69.java`](./69.java) |
 | 75 | Sort Colors | [`75.java`](./75.java) |
