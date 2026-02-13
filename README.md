@@ -53,6 +53,7 @@ This repository contains my personal solutions to various LeetCode problems, imp
 | 160 | Intersection of Two Linked Lists | [`160.java`](./160.java) |
 | 162 | Find Peak Element | [`162.java`](./162.java) |
 | 169 | Majority Element | [`169.java`](./169.java) |
+| 189 | Rotate Array | [`189.java`](./189.java) |
 | 190 | Reverse Bits | [`190.java`](./190.java) |
 | 191 | Number of 1 Bits | [`191.java`](./191.java) |
 | 202 | Happy Number | [`202.java`](./202.java) |
